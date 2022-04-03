@@ -1,0 +1,41 @@
+﻿REF_DATE,GEO,Fuel type,Vehicle type,VALUE,,,,,,,
+43831,Newfoundland and Labrador,Battery electric,Passenger cars,,,,,,,,
+43831,Prince Edward Island,Battery electric,Passenger cars,1,,,,,,,
+43831,Nova Scotia,Battery electric,Passenger cars,,,,,,,,
+43831,New Brunswick,Battery electric,Passenger cars,18,,,,,,,
+43831,Quebec,Battery electric,Passenger cars,3119,,,,,,,
+43831,Ontario,Battery electric,Passenger cars,1259,,,,,,,
+43831,Manitoba,Battery electric,Passenger cars,34,,,,,,,
+43831,Saskatchewan,Battery electric,Passenger cars,18,,,,,,,
+43831,Alberta,Battery electric,Passenger cars,,,,,,,,
+43831,British Columbia and the Territories,Battery electric,Passenger cars,2249,,,,,,,
+43922,Newfoundland and Labrador,Battery electric,Passenger cars,,,,,,,,
+43922,Prince Edward Island,Battery electric,Passenger cars,1,,,,,,,
+43922,Nova Scotia,Battery electric,Passenger cars,,,,,,,,
+43922,New Brunswick,Battery electric,Passenger cars,9,,,,,,,
+43922,Quebec,Battery electric,Passenger cars,1889,,,,,,,
+43922,Ontario,Battery electric,Passenger cars,819,,,,,,,
+43922,Manitoba,Battery electric,Passenger cars,35,,,,,,,
+43922,Saskatchewan,Battery electric,Passenger cars,18,,,,,,,
+43922,Alberta,Battery electric,Passenger cars,,,,,,,,
+43922,British Columbia and the Territories,Battery electric,Passenger cars,1428,,,,,,Row Labels,Sum of VALUE
+44013,Newfoundland and Labrador,Battery electric,Passenger cars,,,,,,,Alberta,
+44013,Prince Edward Island,Battery electric,Passenger cars,12,,,,,,British Columbia and the Territories,8133
+44013,Nova Scotia,Battery electric,Passenger cars,,,,,,,Manitoba,141
+44013,New Brunswick,Battery electric,Passenger cars,21,,,,,,New Brunswick,53
+44013,Quebec,Battery electric,Passenger cars,3465,,,,,,Newfoundland and Labrador,
+44013,Ontario,Battery electric,Passenger cars,1258,,,,,,Nova Scotia,
+44013,Manitoba,Battery electric,Passenger cars,43,,,,,,Ontario,4693
+44013,Saskatchewan,Battery electric,Passenger cars,24,,,,,,Prince Edward Island,15
+44013,Alberta,Battery electric,Passenger cars,,,,,,,Quebec,11714
+44013,British Columbia and the Territories,Battery electric,Passenger cars,2223,,,,,,Saskatchewan,71
+44105,Newfoundland and Labrador,Battery electric,Passenger cars,,,,,,,Grand Total,24820
+44105,Prince Edward Island,Battery electric,Passenger cars,1,,,,,,,
+44105,Nova Scotia,Battery electric,Passenger cars,,,,,,,,
+44105,New Brunswick,Battery electric,Passenger cars,5,,,,,,,
+44105,Quebec,Battery electric,Passenger cars,3241,,,,,,,
+44105,Ontario,Battery electric,Passenger cars,1357,,,,,,,
+44105,Manitoba,Battery electric,Passenger cars,29,,,,,,,
+44105,Saskatchewan,Battery electric,Passenger cars,11,,,,,,,
+44105,Alberta,Battery electric,Passenger cars,,,,,,,,
+44105,British Columbia and the Territories,Battery electric,Passenger cars,2233,,,,,,,
